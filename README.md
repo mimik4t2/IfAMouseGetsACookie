@@ -7,18 +7,6 @@ By Miriam Tekle, Janeen Simon, Matthew Savage
 
 Licensing and Credits:
 
-Tutorials:
-https://www.youtube.com/watch?v=oED12Mo2018&pp=ygURZ29kb3QgdHV0b3JpYWwgMmQ%3D
-Start Your Game Creation Journey Today! (Godot beginner tutorial)
-Godot 2D Sprite Animation - The Basics in 4 Minutes
-https://www.youtube.com/watch?v=zHYkcJyE52g&t=306s
-https://www.youtube.com/watch?v=sbv35boXqac 
-https://www.youtube.com/watch?v=DKmrBUpd0yw 
-https://www.youtube.com/watch?v=QEHOiORnXIk 
-https://www.youtube.com/watch?v=vsKxB66_ngw&t=1
-https://www.youtube.com/watch?v=q7wlSvt0JIc&list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF 
-
-
 Images:
 https://www.magnific.com/free-vector/pixel-clouds-set-game-background_418658556.htm#fromView=keyword&page=1&position=0&uuid=86e46b29-5362-40e4-b700-40e044489f06&query=Video+game+cloud+background 
 image-vector/pixel-art-cityscape-game-background-cartoon-2642754323
